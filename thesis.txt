@@ -11,6 +11,10 @@ I did do some background reading.
 
 # Methodology
 
+My method primarily involves the use of version control to avoid confusion.
+A public copy of this work is hosted at https://github.com/james-grant1/thesis_git_course
+Also, we did some science.
+
 # Results
 
 # Conclusions
